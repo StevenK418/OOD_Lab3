@@ -25,6 +25,10 @@ namespace Lab3Ex2
             Console.Read();
         }
 
+        /// <summary>
+        /// Queries a directory for file info using LINQ Query syntax and 
+        /// prints this info to the console.
+        /// </summary>
         private static void UsingQuerySyntax()
         {
             var files = new DirectoryInfo("c:\\Windows").GetFiles();
@@ -46,6 +50,11 @@ namespace Lab3Ex2
             }
         }
 
+
+        /// <summary>
+        /// Queries a directory for file info using LINQ Lambda syntax and 
+        /// prints this info to the console.
+        /// </summary>
         private static void UsingLambdaSyntax()
         {
             var files = new DirectoryInfo("c:\\Windows").GetFiles();
