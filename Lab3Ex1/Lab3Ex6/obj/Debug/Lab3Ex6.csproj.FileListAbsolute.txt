@@ -1,0 +1,6 @@
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\bin\Debug\Lab3Ex6.exe.config
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\bin\Debug\Lab3Ex6.exe
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\bin\Debug\Lab3Ex6.pdb
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\obj\Debug\Lab3Ex6.csproj.CoreCompileInputs.cache
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\obj\Debug\Lab3Ex6.exe
+C:\Users\User\My Drive\Computer Science Studies\Year2\Subjects\Semester2\ObjectOrientedDevelopment\Labs\Lab3\Lab3Ex1\Lab3Ex6\obj\Debug\Lab3Ex6.pdb
