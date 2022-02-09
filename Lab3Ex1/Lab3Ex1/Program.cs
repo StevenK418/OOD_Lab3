@@ -19,11 +19,8 @@ namespace Lab3Ex1
             //Call the Lambda syntax method
             NumbersUsingLambda();
 
-           
-
-            //Wait for input to avoid instant terminal close
+            //Wait for input to avoid instant console close
             Console.ReadLine();
-
         }
 
         /// <summary>
