@@ -57,7 +57,5 @@ namespace Lab3Ex1
                 Console.WriteLine(number.ToString());
             }
         }
-
-        
     }
 }
