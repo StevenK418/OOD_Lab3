@@ -24,7 +24,7 @@ namespace Lab3Ex7
         }
 
         /// <summary>
-        /// Queries a list of names using LINQ Query syntax for those beginning with M and
+        /// Queries a list of names using LINQ Query syntax and
         /// orders them alphabetically.
         /// </summary>
         private static void UsingQuerySyntax()
@@ -46,7 +46,7 @@ namespace Lab3Ex7
         }
 
         /// <summary>
-        /// Queries a list of names using LINQ Lambda syntax for those beginning with M and
+        /// Queries a list of names using LINQ Lambda syntax and
         /// orders them alphabetically.
         /// </summary>
         private static void UsingLambdaSyntax()
